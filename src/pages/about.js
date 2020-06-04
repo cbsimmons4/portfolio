@@ -197,7 +197,7 @@ export class about extends Component {
                                 </Typography>
                                 <Typography align="center"
                                     variant="body2" colors ="textSecondary" color = "secondary">
-                                    Flask (Python)
+                                    Django (Python)
                                 </Typography>
                             </div>  
                         </Grid>
